@@ -1,0 +1,205 @@
+:root{
+    --hydro: #04b3f2;
+    --pyro: #f37c22;
+    --cryo: #68dce9;
+    --dendro: #83b403;
+    --electro: #d484fd;
+    --geo: #f0a70c;
+    --anemo: #4cdcab;
+}
+
+@font-face {
+    font-family: policeP;
+    src: url(../font/Franko-E5SA.ttf);
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url("../img/background.jpg");
+    overflow-x: hidden;
+}
+
+main{
+    font-family: policeP;
+    width: 700px;
+    margin: 0px auto;
+    background-color: rgba(255, 255, 255, 0.763);
+    min-height: 100vh;
+}
+
+.persoPage{
+    background-color: rgba(182, 182, 182, 0.925);
+}
+
+.flex{
+    display: flex;
+}
+
+.center{
+    text-align: center;
+}
+
+#navFooter{
+    background-color: white;
+    position: fixed;
+    bottom: 0%;
+    width: 700px;
+    border-top: 2px solid rgba(128, 128, 128, 0.05);
+}
+
+#navFooter ul{
+    list-style-type: none;
+}
+
+#navFooter li{
+    width: 100%;
+}
+
+#navFooter a{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 5px;
+    color: #888887;
+}
+
+#navFooter a:hover {
+    background-color: #ededed;
+}
+
+.menu{
+    padding: 10px 0px;
+}
+
+.inline{
+    display: inline;
+}
+
+.materiaux{
+    margin-left: 20px;
+}
+
+.infoJour {
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.info h3{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.ma-Arme{
+    margin-top: 30px;
+}
+
+.container{
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid #88888744;
+    box-shadow: 0 1px 2px rgba(128, 128, 128, 0.712);
+    margin: 10px 20px;
+    padding: 10px;
+    text-align: center;
+    min-width: 190px;
+}
+
+.container img{
+    Height: 100px
+}
+
+.container2{
+    background-color: white;
+    border-radius: 30px;
+    border: 1px solid #88888744;
+    box-shadow: 0 1px 2px rgba(128, 128, 128, 0.712);
+    margin: 10px 20px;
+    padding: 13px;
+    text-align: center;
+    min-width: 280px;
+    max-width: 320px;
+    max-height: 140px;
+}
+
+.container2 img{
+    width: 60px;
+    padding-top: 11px;
+}
+
+.container2 p{
+    padding-top: 25px;
+    width: 100%;
+}
+
+.elements img{
+    width: 200px;
+    padding-top: 6px;
+}
+
+.containerA div{
+    margin-bottom: 10px;
+}
+
+.end{
+    padding-bottom: 100px;
+}
+
+.searchBar{
+    width: 100%;
+    background-color: white;
+    padding: 10px 20px;
+    border: 1px solid #88888744;
+    box-shadow: 0 1px 2px rgba(128, 128, 128, 0.712);
+}
+
+.searchBar input{
+    flex: 1;
+    border: 0;
+    outline: none;
+    font-size: 20px;
+    color: black;
+}
+
+.searchBar button img{
+    width: 25px;
+}
+
+.searchBar button{
+    border: 0;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.searchBar button:hover{
+    background-color: rgb(228, 228, 228);
+}
+
+.persoTitle{
+    margin: 20px 0 0 20px;
+}
+
+.containerPerso{
+    flex-wrap: wrap;
+    margin: 20px;
+    justify-content: center;
+}
+
+.containerPerso img{
+    width: 200px;
+    height: 398.67px;
+    margin: 10px;
+    border-radius: 13px;
+    border: 1px solid #88888744;
+    box-shadow: 0 1px 2px rgba(59, 59, 59, 0.712);
+    cursor: pointer;
+}
