@@ -17,4 +17,4 @@
 </div>
 
 <div class="end"></div>
-<?php require 'inc/footer1.php';?>
+<?php require 'inc/footer.php';?>
