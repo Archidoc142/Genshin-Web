@@ -3,14 +3,9 @@
         private $_nom;
         private $_star;
 
-        public function __construct($param = array()){
-            foreach($param as $k => $v){
-                $methodName = "set_" . $k; 
-
-                if(method_exists($this, $methodName)) {
-                    $this->$methodName($v);
-                }
-            }
+        public function __construct($nom, $star){
+            $this->_nom = $nom;
+            $this->_star = $star;
         }
 
         public function get_nom() : string{

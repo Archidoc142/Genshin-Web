@@ -6,15 +6,15 @@
         <button type="submit"><img src="img/icon/search.png" alt="image"></button>
     </form>
 </div>
-<h2 class="persoTitle">Tous les personnages</h2>
+<h2 class="title">Tous les personnages</h2>
 
 <div class="flex containerPerso">
     <?php
         foreach($personnages as $v){
-            echo '<a href="info/perso/' . $v->get_lien() . '/' . $v->get_lien() . '.php"><img src="img/perso/Card/' . $v->get_img() . '.jpg" alt="image" draggable="false"></a>';
+            echo '<a href="info/perso/' . $v->get_nom() . '.php" draggable="false"><img src="img/perso/' . $v->get_nom() . '.jpg" alt="image" draggable="false"></a>';
         }
     ?>
 </div>
 
-<div class="end"></div>
+<div class="endPerso"></div>
 <?php require 'inc/footer.php';?>

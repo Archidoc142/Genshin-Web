@@ -6,10 +6,14 @@
     --electro: #d484fd;
     --geo: #f0a70c;
     --anemo: #4cdcab;
+    --brun5: #6b5453;
+    --orange5: #d99f4f;
+    --noir4: #5e5685;
+    --mauve4: #ae81c2;
 }
 
 @font-face {
-    font-family: policeP;
+    font-family: police;
     src: url(../font/Franko-E5SA.ttf);
 }
 
@@ -23,12 +27,12 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    background-image: url("../img/background.jpg");
+    background-image: url("../img/background/background.jpg");
     overflow-x: hidden;
 }
 
 main{
-    font-family: policeP;
+    font-family: police;
     width: 700px;
     margin: 0px auto;
     background-color: rgba(255, 255, 255, 0.763);
@@ -36,7 +40,7 @@ main{
 }
 
 .persoPage{
-    background-color: rgba(182, 182, 182, 0.925);
+    background-color: rgba(239, 239, 239, 0.925);
 }
 
 .flex{
@@ -184,7 +188,7 @@ main{
     background-color: rgb(228, 228, 228);
 }
 
-.persoTitle{
+.title{
     margin: 20px 0 0 20px;
 }
 
@@ -196,10 +200,45 @@ main{
 
 .containerPerso img{
     width: 200px;
-    height: 398.67px;
+    height: 376.67px;
     margin: 10px;
     border-radius: 13px;
     border: 1px solid #88888744;
     box-shadow: 0 1px 2px rgba(59, 59, 59, 0.712);
     cursor: pointer;
+}
+
+.endPerso{
+    padding-bottom: 60px;
+}
+
+.c4{
+    background: linear-gradient(to bottom right, #5e5685, #ae81c2);
+}
+
+.c5{
+    background: linear-gradient(to bottom right, #6b5453, #d99f4f);
+}
+
+.containerObj{
+    flex-wrap: wrap;
+    margin: 20px;
+    justify-content: center;
+}
+
+
+.containerArme{
+    border-radius: 10px 10px 30px 30px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px;
+    margin: 15px;
+    font-size: small;
+    width: 28%;
+    max-height: 219px;
+}
+
+.containerArme img{
+    width: 80%;
 }
