@@ -27,7 +27,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    background-image: url("../img/background/background.jpg");
+    background-image: url("../img/background/4.0.jpg");
     overflow-x: hidden;
 }
 
@@ -45,6 +45,10 @@ main{
 
 .flex{
     display: flex;
+}
+
+.inline-block{
+    display: inline-block;
 }
 
 .center{
@@ -225,7 +229,6 @@ main{
     margin: 20px;
     justify-content: center;
 }
-
 
 .containerArme{
     border-radius: 10px 10px 30px 30px;

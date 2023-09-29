@@ -6,7 +6,8 @@
         <button type="submit"><img src="img/icon/search.png" alt="image"></button>
     </form>
 </div>
-<h2 class="title">Tous les personnages</h2>
+<h2 class="inline-block title">Tous les personnages</h2>
+<a>- en ordre de sortie</a>
 
 <div class="flex containerPerso">
     <?php
