@@ -1,5 +1,5 @@
 <?php
-    class Personnage{
+    class Objet{
         private $_nom;
 
         public function __construct($nom){
