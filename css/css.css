@@ -17,6 +17,11 @@
     src: url(../font/Franko-E5SA.ttf);
 }
 
+@font-face {
+    font-family: Genshin;
+    src: url(../font/genshin_font.ttf);
+}
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -41,6 +46,38 @@ main{
 
 .persoPage{
     background-color: rgba(239, 239, 239, 0.925);
+}
+
+.noir{
+    color: black;
+}
+
+.pyro{
+    color: #f37c22;
+}
+
+.cryo{
+    color: #68dce9;
+}
+
+.dendro{
+    color: #83b403;
+}
+
+.geo{
+    color: #f0a70c;
+}
+
+.electro{
+    color: #d484fd;
+}
+
+.anemo{
+    color: #4cdcab;
+}
+
+.hydro{
+    color: #04b3f2;
 }
 
 .flex{
@@ -220,6 +257,23 @@ main{
     background: linear-gradient(to bottom right, #5e5685, #ae81c2);
 }
 
+.c3{
+    background: linear-gradient(to bottom right, #505575, #4d92a8);
+}
+
+.c2{
+    background: linear-gradient(to bottom right, #4b5a5f, #558a6c);
+}
+
+.c1{
+    background: linear-gradient(to bottom right, #505863, #7b8591);
+}
+
+.c4 img:last-of-type, .c3 img:last-of-type, .c2 img:last-of-type, .c1 img:last-of-type{
+    max-height: 15.24px;
+    width: auto;
+}
+
 .c5{
     background: linear-gradient(to bottom right, #6b5453, #d99f4f);
 }
@@ -231,7 +285,7 @@ main{
 }
 
 .containerArme{
-    border-radius: 10px 10px 30px 30px;
+    border-radius: 30px 30px 30px 30px;
     color: white;
     text-decoration: none;
     text-align: center;
@@ -240,6 +294,7 @@ main{
     font-size: small;
     width: 28%;
     max-height: 219px;
+    width: 185px;
 }
 
 .containerArme img{
@@ -256,4 +311,219 @@ iframe {
 
 .videoActu{
     margin-top: 20px;
+}
+
+.pageInfo{
+    background-color: #1a1d23f4;
+    color: white;
+}
+
+.genshin{
+    font-family: genshin;
+}
+
+.orangeLine{
+    background-color: #deb76c;
+    height: 4px;
+    border-radius: 0 0 2px 2px;
+}
+
+.titlePerso{
+    padding: 10px 0 0 20px;
+}
+
+.navPerso{
+    margin: 10px;
+    list-style-type: none;
+    justify-content: center;
+}
+
+.navPerso li{
+    margin: 0 5px;
+    width: 100%;
+}
+
+.navPerso a{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    background-color: #7f6f4e;
+    color: white;
+    border-radius: 4px;
+    padding: 20px 0;
+}
+
+.navPerso a:hover {
+    background-color: #deb76c;
+    color: black;
+}
+
+.descriptionP{
+    width: 55%;
+    margin: 10px 5px 0 15px;
+}
+
+.containerP{
+    width: 45%;
+    margin: 5px 15px 0 5px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.containerP img{
+    width: 95%;
+}
+
+.nameP{
+    color: black;
+    background-color: #deb76c;
+    font-size: larger;
+    padding: 12px 0;
+    border-radius: 5px 5px 0 0;
+}
+
+.titreP{
+    background-color: #21232c;
+    color: #dbb56b;
+    font-size: medium;
+    padding: 10px 0;
+}
+
+.spe{
+    width: 33.33%;
+    padding: 3px 0;
+}
+
+.spe div img{
+    width: 28%;
+    margin-left: 3px;
+}
+
+.spe div p{
+    padding-top: 5px;
+    margin: 0px auto;
+}
+
+.containerP > div, .containerP > div > div{
+    border: 1px solid #3d4055;
+}
+
+.box{
+    font-size: small;
+    color: #dbb56b;
+    background-color: #272935;
+}
+
+.fiche img{
+    width: 40px;
+}
+
+.fiche h4{
+    width: 100%;
+    font-size: x-large;
+    border-bottom: 4px solid  black;
+    margin: 5px;
+}
+
+.fiche{
+    margin: 20px;
+}
+
+#build, #team, #materiaux{
+    background-color: rgba(255, 255, 255, 0.863);
+    border-radius: 20px;
+    margin: 20px 20px 40px;
+    padding: 5px 5px 20px 5px;
+    border: 1px solid #88888744;
+    box-shadow: 0 1px 2px rgba(128, 128, 128, 0.712);
+}
+
+#build div a{
+    min-width: 160px;
+    max-width: 160px;
+}
+
+#build div > p, #team div > p, #materiaux div > p{
+    margin: 0 15px;
+    font-size: large;
+}
+
+#team div a, #materiaux div a{
+    min-width: 132px;
+    max-width: 132px;
+}
+
+.power{
+    font-size: small;
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid rgb(31, 31, 118);
+    border-radius: 20px;
+}
+
+.power div p{
+    margin: auto;
+    font-size: x-large;
+    text-align: center;
+}
+
+.power div{
+    margin-bottom: 20px;
+    background-color: #2f393dbe;
+    border-radius: 20px;
+}
+
+.power div img{
+    width: 60px;
+    margin: 10px;
+}
+
+#stat h2{
+    text-align: center;
+    font-size: xx-large;
+    margin: 10px;
+}
+
+.power > p{
+    text-align: justify;
+}
+
+h4.pyro{
+    border-color: #f37c22;
+}
+
+h4.cryo{
+    border-color: #68dce9;
+}
+
+h4.dendro{
+    border-color: #83b403;
+}
+
+h4.geo{
+    border-color: #f0a70c;
+}
+
+h4.electro{
+    border-color: #d484fd;
+}
+
+h4.anemo{
+    border-color: #4cdcab;
+}
+
+h4.hydro{
+    border-color: #04b3f2;
+}
+
+.video{
+    display: block;
+    margin: 15px auto 5px;
+    border-radius: 10px;
+    max-width: 450px;
+    height: auto;
+}
+
+img.video{
+    border: 2px solid rgb(31, 31, 118);
 }

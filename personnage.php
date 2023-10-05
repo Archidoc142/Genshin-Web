@@ -12,7 +12,7 @@
 <div class="flex containerPerso">
     <?php
         foreach($personnages as $v){
-            echo '<a href="info/perso/' . $v->get_nom() . '.php" draggable="false"><img src="img/perso/' . $v->get_nom() . '.jpg" alt="image" draggable="false"></a>';
+            echo '<a href="' . $v->get_nom() . '.php" draggable="false"><img src="img/perso/' . $v->get_nom() . '.jpg" alt="image" draggable="false"></a>';
         }
     ?>
 </div>

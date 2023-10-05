@@ -22,7 +22,9 @@
 
         <h2>Histoires des personnages</h2>
         <iframe src="https://www.youtube.com/embed/videoseries?si=dn2qx7PfpSsKvnlx&amp;list=PLqWr7dyJNgLJ80iJSJa-Yw89Z0Z-q-0Bg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
-    </div>
+
+        <h2>Sélection de vidéo</h2>
+        <iframe src="https://www.youtube.com/embed/videoseries?si=vS9sNTtv-6kzQXIB&amp;list=PLRTpUli6biV182Sdalzgb8N-bPt_6Sid5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    </div>
     
 <div class="endPerso"></div>
 <?php require 'inc/footer.php';?>

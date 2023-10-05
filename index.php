@@ -84,7 +84,7 @@
         <div class="container2 containerA">
             <h4>Calculateur de Primogem</h4>
             <div class="flex">
-                <img src="img/icon/primogem.jpg" alt="image" draggable='false'>
+                <img src="img/icon/primogem.png" alt="image" draggable='false'>
                 <p>Approximation du nombre de primogem disponible par version</p>
             </div>
         </div>
