@@ -1,7 +1,4 @@
 <?php
-require 'class/materiaux.class.php';
-require 'class/Obj.class.php';
-
     $materiaux = array(
         0 => new Matériaux(array('nom' => "Enseignement de la Liberté",'star'=>2,'type'=>'aptitude','jour' => 1,'img'=>'img/materiaux/aptitude/liberte2.jpg')),
         1 => new Matériaux(array('nom' => "Guide de la Liberté",'star'=>3,'type'=>'aptitude','jour' => 1,'img'=>'img/materiaux/aptitude/liberte3.jpg')),

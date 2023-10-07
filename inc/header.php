@@ -6,7 +6,9 @@
 <head>
   <meta charset="utf-8">
   <title>Genshin impact</title>
-  <link rel="stylesheet" href="css/css.css">
-</head>
-
-<body>
+  <link rel="stylesheet" 
+  <?php if ($_SESSION['infoPage'] == true){
+    echo 'href="../css/css.css"></head><body>';
+  } else {
+    echo 'href="css/css.css"></head><body>';
+  } ?>
