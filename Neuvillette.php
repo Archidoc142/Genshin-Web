@@ -61,7 +61,7 @@
 
         <div>
             <p class="noir">Artéfacts</p>
-            <p class="hydro">Stats Secondaire: DGT CRIT % > Taux CRIT % > PV % > PV > Recharge d'énergie</p>
+            <p class="hydro">Stats Secondaires: DGT CRIT % > Taux CRIT % > PV % > PV > Recharge d'énergie</p>
             <div class="flex infoJour">
                 <a href="Chasseur de la Maréchaussée.php" class="containerArme c5" draggable="false"><img src="img/artefact/Chasseur de la Maréchaussée.png" alt="image" draggable="false"><p>Broche du chasseur</p><img src="img/icon/five_stars.png" alt="image" draggable="false"></a>
                 <a href="Chasseur de la Maréchaussée.php" class="containerArme c5" draggable="false"><img src="img/artefact/Prologue du chef-d'œuvre.png" alt="image" draggable="false"><p>Prologue du chef-d'œuvre</p><img src="img/icon/five_stars.png" alt="image" draggable="false"></a>
@@ -144,7 +144,7 @@
                 <p>Attaque normale : Quiétude de l’eau</p>
             </div>
             <p><strong>Charge d’attaque chargée : Avertissement procédural</strong><br>Pendant la charge, Neuvillette concentre la puissance de l’eau en un sceau d’arbitrage. Dans cet état, Neuvillette peut se déplacer, changer d’orientation et absorber les gouttes d’eau de source à portée.<br>Chaque goutte absorbée permet d’augmenter la vitesse du sceau d’arbitrage et soigne les PV de Neuvillette selon ses PV max.<br><br><strong>Attaque chargée : Jugement équitable</strong><br>Neuvillette libère un torrent déferlant qui inflige des DGT Hydro de zone de façon continue aux ennemis en ligne droite devant lui.<br><br>Le jugement équitable ne consomme pas l’endurance et dure X s.<br>Lorsque ses PV sont supérieurs à 50 %, Neuvillette perd des PV de façon continue en utilisant cette attaque.<br><br>Combo : 98.24% / 83.24% / 130.21%<br>Chargée : 246.24%<br>DGT continus attaque chargée « Jugement équitable » : 14.47% PV max<br>Restauration PV : 16% PV max / goutte<br>Perte de PV : 8% PV max / 0.5 s<br>DGT durant la chute : 112.34%<br>DGT Chute basse/élevée : 224.62% / 280.57%</p>
-            <img src="video/Neuvillette1.gif" alt="video" class="video">
+            <img src="https://www.genshin-impact.fr/wp-content/uploads/2023/09/Neuvillette_AA.gif" alt="video" class="video" draggable="false">
         </div>
         <div class="power">
             <div class="flex">
@@ -152,7 +152,7 @@
                 <p>Compétence élémentaire : Ô larmes, je rembourse</p>
             </div>
             <p>Neuvillette invoque une cascade déchaînée qui inflige des DGT Hydro de zone aux ennemis en face de lui. Après avoir touché un ennemi, 3 gouttes d’eau de source sont générées à proximité de ce dernier.<br><br><strong>Arkhe : Pneuma</strong><br>Régulièrement, après avoir invoqué une cascade déchaînée, une épine d’inhalation qui transperce les ennemis est libérée pour infliger des DGT Hydro chargés d’énergie pneuma.<br><br>DGT compétence : 23.16% PV max<br>DGT épine d'inhalation : 37.44%<br>Intervalle épine d'inhalation : 10 s<br>Durée de goutte d'eau de source : 15 s<br>TdR : 12 s</p>
-            <img src="video/Neuvillette2.gif" alt="video" class="video">
+            <img src="https://www.genshin-impact.fr/wp-content/uploads/2023/09/Neuvillette_E.gif" alt="video" class="video" draggable="false">
         </div>
         <div class="power">
             <div class="flex">
@@ -160,7 +160,7 @@
                 <p>Déchainement élémentaire : Ô marées, je reviens</p>
             </div>
             <p>Neuvillette déchaîne une vague de rupture qui inflige des DGT Hydro de zone selon ses PV max. Après un court délai, 2 cascades sont invoquées pour infliger des DGT Hydro sur une petite zone et générer 6 gouttes d’eau de source en avant.<br><br>DGT compétence : 40.06% PV max<br>DGT cascade : 16.39% PV max<br>TdR : 18 s<br>Coût énergie : 70</p>
-            <img src="video/Neuvillette3.gif" alt="video" class="video">
+            <img src="https://www.genshin-impact.fr/wp-content/uploads/2023/09/Neuvillette_Q.gif" alt="video" class="video" draggable="false">
         </div>
 
         <h2 class="title">Passif</h2>

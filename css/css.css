@@ -32,7 +32,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    background-image: url("../img/background/4.0.jpg");
+    background-image: url("../img/background/3rd Anniversary.jpg");
     overflow-x: hidden;
 }
 
@@ -402,6 +402,7 @@ iframe {
 .spe div p{
     padding-top: 5px;
     margin: 0px auto;
+    padding-right: 5px;
 }
 
 .containerP > div, .containerP > div > div{
@@ -412,6 +413,15 @@ iframe {
     font-size: small;
     color: #dbb56b;
     background-color: #272935;
+}
+
+.spe:first-of-type img{
+    width: auto;
+    margin-top: 4px;
+}
+
+.spe:last-of-type img{
+    padding-left: 2px;
 }
 
 .fiche img{

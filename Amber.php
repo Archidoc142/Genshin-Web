@@ -18,27 +18,27 @@
         </div>
         <div class="containerP">
             <div class="nameP genshin"><p>Amber</p></div>
-            <div class="titreP genshin"><h4>Gliding Champion</h4></div>  
+            <div class="titreP genshin"><h4>Éclaireuse de l'Ordre de Favonius</h4></div>  
 
             <div><img src="img/perso/Amber.jpg" id="switch" alt="Image" draggable="false" onclick="switchImage();"></div>
 
             <div class="box flex">
                 <div class="spe">
                     <p><strong>Qualité</strong></p>
-                    <img src="img/icon/five_stars2.png" alt="Image" draggable="false">
+                    <img src="img/icon/four_stars2.png" alt="Image" draggable="false">
                 </div>
                 <div class="spe">
                     <p><strong>Arme</strong></p>
                     <div class="flex">
-                        <img src="img/icon/catalyst.png" alt="Image" draggable="false">
+                        <img src="img/icon/bow.png" alt="Image" draggable="false">
                         <p>catalyseur</p>
                     </div>
                 </div>
                 <div class="spe">
                     <p><strong>Élément</strong></p>
                     <div class="flex">
-                        <img src="img/icon/hydro.png" alt="Image" draggable="false">
-                        <p>Hydro</p>
+                        <img src="img/icon/pyro.png" alt="Image" draggable="false">
+                        <p>Pyro</p>
                     </div>
                 </div>
             </div>
@@ -61,7 +61,7 @@
 
         <div>
             <p class="noir">Artéfacts</p>
-            <p class="pyro">Stats Secondaire:  Recharge d'énergie > Taux CRIT % > DGT CRIT % > ATQ %</p>
+            <p class="pyro">Stats Secondaires:  Recharge d'énergie > Taux CRIT % > DGT CRIT % > ATQ %</p>
             <div class="flex infoJour">
                 <a href="Ancien rituel royal.php" class="containerArme c5" draggable="false"><img src="img/artefact/Ancien rituel royal.png" alt="image" draggable="false"><p>Moment du jugement</p><img src="img/icon/five_stars.png" alt="image" draggable="false"></a>
                 <a href="Ancien rituel royal.php" class="containerArme c5" draggable="false"><img src="img/artefact/Plume du Noble.png" alt="image" draggable="false"><p>Plume du Noble</p><img src="img/icon/five_stars.png" alt="image" draggable="false"></a>
@@ -72,7 +72,7 @@
         </div>
 
         <div>
-            <h3 class="pyro">★DPS</h3><p class="pyro">Élévation d'aptitude: Attaque Normal > Déchaînement Élémentaire >  Compétence Élémentaire</p>
+            <h3 class="pyro">★DPS</h3><p class="pyro">Élévation d'aptitude: Attaque Normal > Déchaînement Élémentaire > Compétence Élémentaire</p>
             <p class="noir">Armes</p>
             <div class="flex infoJour">
                 <a href="Arc d'Amos.php" class="containerArme c5" draggable="false"><img src="img/arme/Arc d'Amos.png" alt="image" draggable="false"><p>Arc d'Amos</p><img src="img/icon/five_stars.png" alt="image" draggable="false"></a>
@@ -82,7 +82,7 @@
 
         <div>
             <p class="noir">Artéfacts</p>
-            <p class="pyro">Stats Secondaire:  DGT CRIT % > Taux CRIT % > ATQ % > Maîtise élémentaire</p>
+            <p class="pyro">Stats Secondaires:  DGT CRIT % > Taux CRIT % > ATQ % > Maîtise élémentaire</p>
             <div class="flex infoJour">
                 <a href="Bande Vagabonde.php" class="containerArme c5" draggable="false"><img src="img/artefact/Bande Vagabonde.png" alt="image" draggable="false"><p>Aube de l'orchestre</p><img src="img/icon/five_stars.png" alt="image" draggable="false"></a>
                 <a href="Bande Vagabonde.php" class="containerArme c5" draggable="false"><img src="img/artefact/Plume de flèche du lyriste.png" alt="image" draggable="false"><p>Plume de flèche du lyriste</p><img src="img/icon/five_stars.png" alt="image" draggable="false"></a>
@@ -140,10 +140,10 @@
         <div class="flex infoJour">
             <a class="containerArme c3" draggable="false"><img src="img/icon/mora.png" alt="image" draggable="false"><p>Mora<br>x 7 000 000</p><img src="img/icon/three_stars.png" alt="image" draggable="false"></a>
             <a class="containerArme c4" draggable="false"><img src="img/materiaux/elevation/Leçon du héros.png" alt="image" draggable="false"><p>Leçon du héros<br>x 421</p><img src="img/icon/four_stars.png" alt="image" draggable="false"></a>
-            <a class="containerArme c2" draggable="false"><img src="img/materiaux/joyau/pyro1.png" alt="image" draggable="false"><p>Éclat de lazurite varunada<br>x 1</p><img src="img/icon/two_stars.png" alt="image" draggable="false"></a>
-            <a class="containerArme c3" draggable="false"><img src="img/materiaux/joyau/pyro2.png" alt="image" draggable="false"><p>Fragment de lazurite varunada<br>x 9</p><img src="img/icon/three_stars.png" alt="image" draggable="false"></a>
-            <a class="containerArme c4" draggable="false"><img src="img/materiaux/joyau/pyro3.png" alt="image" draggable="false"><p>Morceau de lazurite varunada<br>x 9</p><img src="img/icon/four_stars.png" alt="image" draggable="false"></a>
-            <a class="containerArme c5" draggable="false"><img src="img/materiaux/joyau/pyro4.png" alt="image" draggable="false"><p>Pierre de lazurite varunada<br>x 6</p><img src="img/icon/five_stars.png" alt="image" draggable="false"></a>
+            <a class="containerArme c2" draggable="false"><img src="img/materiaux/joyau/pyro1.png" alt="image" draggable="false"><p>Éclat d'agate agnidus<br>x 1</p><img src="img/icon/two_stars.png" alt="image" draggable="false"></a>
+            <a class="containerArme c3" draggable="false"><img src="img/materiaux/joyau/pyro2.png" alt="image" draggable="false"><p>Fragment d'agate agnidus<br>x 9</p><img src="img/icon/three_stars.png" alt="image" draggable="false"></a>
+            <a class="containerArme c4" draggable="false"><img src="img/materiaux/joyau/pyro3.png" alt="image" draggable="false"><p>Morceau d'agate agnidus<br>x 9</p><img src="img/icon/four_stars.png" alt="image" draggable="false"></a>
+            <a class="containerArme c5" draggable="false"><img src="img/materiaux/joyau/pyro4.png" alt="image" draggable="false"><p>Pierre d'agate agnidus<br>x 6</p><img src="img/icon/five_stars.png" alt="image" draggable="false"></a>
             <a class="containerArme c1" draggable="false"><img src="img/materiaux/elevation/Pointe de flèche robuste.png" alt="image" draggable="false"><p>Pointe de flèche robuste<br>x 36</p><img src="img/icon/one_star.png" alt="image" draggable="false"></a>
             <a class="containerArme c2" draggable="false"><img src="img/materiaux/elevation/Pointe de flèche aiguisée.png" alt="image" draggable="false"><p>Pointe de flèche aiguisée<br>x 96</p><img src="img/icon/two_stars.png" alt="image" draggable="false"></a>
             <a class="containerArme c3" draggable="false"><img src="img/materiaux/elevation/Pointe de flèche usée.png" alt="image" draggable="false"><p>Pointe de flèche usée<br>x 129</p><img src="img/icon/three_stars.png" alt="image" draggable="false"></a>
@@ -165,7 +165,7 @@
                 <p>Archerie Revisitée</p>
             </div>
             <p><strong>Attaque normale :</strong>Enchaîne jusqu'à 5 tirs consécutifs.<br><strong>Attaque chargée :</strong>Effectue un tir visé plus précis infligeant davantage de DGT.<br>Lors de la visée, la flèche se charge en élément Pyro, infligeant de considérable.<br><br>Combo : 71.4% / 71.1% / 91.8% / 93.5% / 117.3%<br>Tir visé : 86.7%<br>Tir Chargé : 223.2%<br>DGT durant la chute : 112.34%<br>DGT Chute basse/élevée : 224.62%/280.57%</p>
-            <img src="video/Amber1.gif" alt="video" class="video">
+            <img src="https://www.genshin-impact.fr/wp-content/uploads/2020/08/Amber-AA.gif" alt="video" class="video" draggable="false">
         </div>
         <div class="power">
             <div class="flex">
@@ -173,7 +173,7 @@
                 <p>Poupée explosive</p>
             </div>
             <p><strong>Baron Lapinou</strong><br>· Le Baron nargue les ennemis proches et attire leur attention.<br>· Ses PV sont proportionnels aux PV max d'Amber.<br>· Le Baron explose à la fin ou s'il est détruit entre temps, et inflige des DGT Pyro de zone.<br><br><strong>Appui long</strong><br>Ajuste la direction du jet.<br>Ajuste la portée du jet.<br><br>PV hérités : 74.45%<br>DGT Explosion : 221.76%<br>TdR : 15s</p>
-            <img src="video/Amber2.gif" alt="video" class="video">
+            <img src="https://www.genshin-impact.fr/wp-content/uploads/2020/08/Amber-E.gif" alt="video" class="video" draggable="false">
         </div>
         <div class="power">
             <div class="flex">
@@ -181,7 +181,7 @@
                 <p>Pluie de flèches</p>
             </div>
             <p>Tire une pluie de flèches qui inflige des DGT Pyro continus.<br><br>DGT Pluie de flèches : 50.54%<br>DGT totaux Pluie de flèches : 909.79%<br>Durée : 2s<br>TdR : 12s<br>Coût énergie : 40</p>
-            <img src="video/Amber3.gif" alt="video" class="video">
+            <img src="https://www.genshin-impact.fr/wp-content/uploads/2020/08/Amber-Q.gif" alt="video" class="video" draggable="false">
         </div>
 
         <h2 class="title">Passif</h2>
