@@ -14,7 +14,7 @@
 
     <div class="flex" id="overview">
         <div class="descriptionP">
-            <p>Mage puissant reconnu comme le diplômé le plus distingué de l'Académie de Sumeru en 200 ans, Lisa est depuis retournée à Mondstadt pour devenir l'humble bibliothécaire de l'Ordre de Favonius.<br><br>Lisa est une sorcière intelligente avec un penchant pour la sieste.<br>En tant que bibliothécaire de l'Ordre de Favonius, cette grande intellectuelle trouve toujours la meilleure solution à tous les problèmes.<br>Malgré son air nonchalant, Lisa maîtrise toute situation avec calme et sérénité.</p>
+            <p>Mage puissant reconnu comme le diplômé le plus distingué de l'Académie de Sumeru en 200 ans, Lisa est depuis retournée à Mondstadt pour devenir l'humble bibliothécaire de l'Ordre de Favonius.<br><br>Lisa est une sorcière intelligente avec un penchant pour la sieste.<br>En tant que bibliothécaire de l'Ordre de Favonius, cette grande intellectuelle trouve toujours la meilleure solution à tous les problèmes.<br><br>Malgré son air nonchalant, Lisa maîtrise toute situation avec calme et sérénité.</p>
         </div>
         <div class="containerP">
             <div class="nameP genshin"><p>Lisa</p></div>
@@ -31,7 +31,7 @@
                     <p><strong>Arme</strong></p>
                     <div class="flex">
                         <img src="../img/icon/catalyst.png" alt="Image" draggable="false">
-                        <p>catalyseur</p>
+                        <p>Catalyseur</p>
                     </div>
                 </div>
                 <div class="spe">
@@ -55,9 +55,12 @@
             <h3 class="electro">★DPS (Électro)</h3><p class="electro">Élévation d'aptitude: Compétence Élémentaire > Attaque Normal > Déchaînement Élémentaire</p>
             <p class="noir">Armes</p>
             <div class="flex infoJour">
-                <a href="Reflet de tranche-brume.php" class="containerArme c5" draggable="false"><img src="../img/arme/Vérité de Kagura.png" alt="image" draggable="false"><p>Vérité de Kagura</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Coupeur de jade primordial.php" class="containerArme c5" draggable="false"><img src="../img/arme/Atlas de la Voûte d'Azur.png" alt="image" draggable="false"><p>Atlas de la Voûte d'Azur</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="L'origine des Quatre Vents.php" class="containerArme c5" draggable="false"><img src="../img/arme/L'origine des Quatre Vents.png" alt="image" draggable="false"><p>L'origine des Quatre Vents</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../arme/Reflet de tranche-brume.php" class="containerArme c5" draggable="false"><img src="../img/arme/Vérité de Kagura.png" alt="image" draggable="false"><p>Vérité de Kagura</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../arme/Coupeur de jade primordial.php" class="containerArme c5" draggable="false"><img src="../img/arme/Atlas de la Voûte d'Azur.png" alt="image" draggable="false"><p>Atlas de la Voûte d'Azur</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../arme/L'origine des Quatre Vents.php" class="containerArme c5" draggable="false"><img src="../img/arme/L'origine des Quatre Vents.png" alt="image" draggable="false"><p>L'origine des Quatre Vents</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a class="containerArme c4" draggable="false"><img src="../img/arme/Mouvement vagabond.png" alt="image" draggable="false"><p>Mouvement vagabond</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>
+                <a class="containerArme c4" draggable="false"><img src="../img/arme/Contes de Dodoco.png" alt="image" draggable="false"><p>Contes de Dodoco</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>
+                <a class="containerArme c4" draggable="false"><img src="../img/arme/Atlas des terres et des mers.png" alt="image" draggable="false"><p>Atlas des terres et des mers</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>
             </div>
         </div>
 
@@ -65,11 +68,11 @@
             <p class="noir">Artéfacts</p>
             <p class="electro">Stats Secondaires:  DGT CRIT % > Taux CRIT % > Recharge d'énergie % > ATQ %</p>
             <div class="flex infoJour">
-                <a href="Colère de tonnerre.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Colère de tonnerre.png" alt="image" draggable="false"><p>Compassion de l'oiseau de tonnerre</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Colère de tonnerre.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Survivant de la catastrophe.png" alt="image" draggable="false"><p>Survivant de la catastrophe</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Rideau du Gladiateur.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Espoir du Gladiateur.png" alt="image" draggable="false"><p>Espoir du Gladiateur</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Rideau du Gladiateur.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Ivresse du Gladiateur.png" alt="image" draggable="false"><p>Ivresse du Gladiateur</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Rideau du Gladiateur.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Triomphe du Gladiateur.png" alt="image" draggable="false"><p>Triomphe du Gladiateur</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Colère de tonnerre.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Colère de tonnerre.png" alt="image" draggable="false"><p>Compassion de l'oiseau de tonnerre</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Colère de tonnerre.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Survivant de la catastrophe.png" alt="image" draggable="false"><p>Survivant de la catastrophe</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Rideau du Gladiateur.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Espoir du Gladiateur.png" alt="image" draggable="false"><p>Espoir du Gladiateur</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Rideau du Gladiateur.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Ivresse du Gladiateur.png" alt="image" draggable="false"><p>Ivresse du Gladiateur</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Rideau du Gladiateur.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Triomphe du Gladiateur.png" alt="image" draggable="false"><p>Triomphe du Gladiateur</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
             </div>
         </div>
     </div>
@@ -81,14 +84,14 @@
         </div>
 
         <div>
-            <p class="noir">Surcharge</p>
+            <p class="noir">Surcharge - B</p>
             <div class="flex infoJour">
-                <a href="Raiden Shogun.php" class="containerArme c5" draggable="false"><img src="../img/icon/Raiden Shogun.png" alt="image" draggable="false"><p>lisa</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="Raiden Shogun.php" class="containerArme c5" draggable="false"><img src="../img/icon/Raiden Shogun.png" alt="image" draggable="false"><p>Raiden Shogun</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
                 <a href="Kujou Sara.php" class="containerArme c4" draggable="false"><img src="../img/icon/Kujou Sara.png" alt="image" draggable="false"><p>Kujou Sara</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>
                 <a href="Lisa.php" class="containerArme c4" draggable="false"><img src="../img/icon/Lisa.png" alt="image" draggable="false"><p>Lisa</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>
                 <a href="Bennett.php" class="containerArme c4" draggable="false"><img src="../img/icon/Bennett.png" alt="image" draggable="false"><p>Bennett</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>
             </div>
-            <p class="noir">Surcharge</p>
+            <p class="noir">Surcharge - B</p>
             <div class="flex infoJour">
                 <a href="Diluc.php" class="containerArme c5" draggable="false"><img src="../img/icon/Diluc.png" alt="image" draggable="false"><p>Diluc</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
                 <a href="Lisa.php" class="containerArme c4" draggable="false"><img src="../img/icon/Lisa.png" alt="image" draggable="false"><p>Lisa</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>

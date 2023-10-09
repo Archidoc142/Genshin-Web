@@ -14,7 +14,7 @@
 
     <div class="flex" id="overview">
         <div class="descriptionP">
-            <p>Le juge suprême de Fontaine, également connu comme l'iudex, est réputé pour son impartialité sans faille.<br><br>Neuvillette est l'Iudex de Fontaine et le chef du Fantôme de la Maréchaussée. Alors que Neuvillette respecte les règles de la cour avec le plus grand respect et contrôle souvent la flamboyance de Furina, il est assez distant lorsqu'il s'agit des émotions humaines et se distancie souvent des yeux du public. Malgré son apparence humaine, il est en fait la réincarnation du dragon souverain hydro, mais pas dans sa pleine puissance ni dans sa condition de dragon.</p>
+            <p>Le juge suprême de Fontaine, également connu comme l'iudex, est réputé pour son impartialité sans faille.<br><br>Neuvillette est l'Iudex de Fontaine et le chef du Fantôme de la Maréchaussée. Alors que Neuvillette respecte les règles de la cour avec le plus grand respect et contrôle souvent la flamboyance de <a href="Furina.php" class="lien">Furina</a>, il est assez distant lorsqu'il s'agit des émotions humaines et se distancie souvent des yeux du public. Malgré son apparence humaine, il est en fait la réincarnation du dragon souverain hydro, mais pas dans sa pleine puissance ni dans sa condition de dragon.</p>
         </div>
         <div class="containerP">
             <div class="nameP genshin"><p>Neuvillette</p></div>
@@ -31,7 +31,7 @@
                     <p><strong>Arme</strong></p>
                     <div class="flex">
                         <img src="../img/icon/catalyst.png" alt="Image" draggable="false">
-                        <p>catalyseur</p>
+                        <p>Catalyseur</p>
                     </div>
                 </div>
                 <div class="spe">
@@ -55,7 +55,10 @@
             <h3 class="hydro">★DPS (Hydro)</h3><p class="hydro">Élévation d'aptitude: Attaque Normal > Compétence Élémentaire > Déchaînement Élémentaire</p>
             <p class="noir">Armes</p>
             <div class="flex infoJour">
-                <a href="Tome du flux éternel.php" class="containerArme c5" draggable="false"><img src="../img/arme/Tome du flux éternel.png" alt="image" draggable="false"><p>Tome du flux éternel</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../arme/Tome du flux éternel.php" class="containerArme c5" draggable="false"><img src="../img/arme/Tome du flux éternel.png" alt="image" draggable="false"><p>Tome du flux éternel</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a  class="containerArme c4" draggable="false"><img src="../img/arme/jade sacrificiel.png" alt="image" draggable="false"><p>jade sacrificiel</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>
+                <a class="containerArme c4" draggable="false"><img src="../img/arme/Malice (prototype).png" alt="image" draggable="false"><p>Malice (prototype)</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>
+                <a class="containerArme c4" draggable="false"><img src="../img/arme/ballade de l'azur infini.png" alt="image" draggable="false"><p>ballade de l'azur infini</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>
             </div>
         </div>
 
@@ -63,18 +66,18 @@
             <p class="noir">Artéfacts</p>
             <p class="hydro">Stats Secondaires: DGT CRIT % > Taux CRIT % > PV % > PV > Recharge d'énergie</p>
             <div class="flex infoJour">
-                <a href="Chasseur de la Maréchaussée.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Chasseur de la Maréchaussée.png" alt="image" draggable="false"><p>Broche du chasseur</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Chasseur de la Maréchaussée.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Prologue du chef-d'œuvre.png" alt="image" draggable="false"><p>Prologue du chef-d'œuvre</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Chasseur de la Maréchaussée.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Moment du jugement.png" alt="image" draggable="false"><p>Moment du jugement</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Chasseur de la Maréchaussée.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Réceptacle oublié.png" alt="image" draggable="false"><p>Réceptacle oublié</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Chasseur de la Maréchaussée.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Visage du vétéran.png" alt="image" draggable="false"><p>Visage du vétéran</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Chasseur de la Maréchaussée.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Chasseur de la Maréchaussée.png" alt="image" draggable="false"><p>Broche du chasseur</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Chasseur de la Maréchaussée.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Prologue du chef-d'œuvre.png" alt="image" draggable="false"><p>Prologue du chef-d'œuvre</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Chasseur de la Maréchaussée.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Moment du jugement.png" alt="image" draggable="false"><p>Moment du jugement</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Chasseur de la Maréchaussée.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Réceptacle oublié.png" alt="image" draggable="false"><p>Réceptacle oublié</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Chasseur de la Maréchaussée.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Visage du vétéran.png" alt="image" draggable="false"><p>Visage du vétéran</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
             </div>
             <div class="flex infoJour">
-                <a href="Âme des profondeurs.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Âme des profondeurs.png" alt="image" draggable="false"><p>Broche plaquée</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Âme des profondeurs.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Brise nostalgique.png" alt="image" draggable="false"><p>Brise nostalgique</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Âme des profondeurs.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Boussole en bronze.png" alt="image" draggable="false"><p>Boussole en bronze</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Âme des profondeurs.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Calice des profondeurs.png" alt="image" draggable="false"><p>Calice des profondeurs</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Âme des profondeurs.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Calot taché de vin.png" alt="image" draggable="false"><p>Calot taché de vin</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Âme des profondeurs.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Âme des profondeurs.png" alt="image" draggable="false"><p>Broche plaquée</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Âme des profondeurs.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Brise nostalgique.png" alt="image" draggable="false"><p>Brise nostalgique</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Âme des profondeurs.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Boussole en bronze.png" alt="image" draggable="false"><p>Boussole en bronze</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Âme des profondeurs.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Calice des profondeurs.png" alt="image" draggable="false"><p>Calice des profondeurs</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Âme des profondeurs.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Calot taché de vin.png" alt="image" draggable="false"><p>Calot taché de vin</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
             </div>
         </div>
     </div>
@@ -86,21 +89,21 @@
         </div>
 
         <div>
-            <p class="noir">Hyperbloom</p>
+            <p class="noir">Hyperbloom - SS</p>
             <div class="flex infoJour">
                 <a href="Neuvillette.php" class="containerArme c5" draggable="false"><img src="../img/icon/Neuvillette.png" alt="image" draggable="false"><p>Neuvillette</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
                 <a href="Nahida.php" class="containerArme c5" draggable="false"><img src="../img/icon/Nahida.png" alt="image" draggable="false"><p>Nahida</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
                 <a href="Kazuha.php" class="containerArme c5" draggable="false"><img src="../img/icon/Kazuha.png" alt="image" draggable="false"><p>Kazuha</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
                 <a href="Kuki Shinobu.php" class="containerArme c4" draggable="false"><img src="../img/icon/Kuki Shinobu.png" alt="image" draggable="false"><p>Kuki Shinobu</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>
             </div>
-            <p class="noir">Vaporize</p>
+            <p class="noir">Vaporize - S</p>
             <div class="flex infoJour">
                 <a href="Neuvillette.php" class="containerArme c5" draggable="false"><img src="../img/icon/Neuvillette.png" alt="image" draggable="false"><p>Neuvillette</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
                 <a href="Xiangling.php" class="containerArme c4" draggable="false"><img src="../img/icon/Xiangling.png" alt="image" draggable="false"><p>Xiangling</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>
                 <a href="Kazuha.php" class="containerArme c5" draggable="false"><img src="../img/icon/Kazuha.png" alt="image" draggable="false"><p>Kazuha</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
                 <a href="Zhongli.php" class="containerArme c5" draggable="false"><img src="../img/icon/Zhongli.png" alt="image" draggable="false"><p>Zhongli</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
             </div>
-            <p class="noir">Électrocution</p>
+            <p class="noir">Électrocution - SS</p>
             <div class="flex infoJour">
                 <a href="Neuvillette.php" class="containerArme c5" draggable="false"><img src="../img/icon/Neuvillette.png" alt="image" draggable="false"><p>Neuvillette</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
                 <a href="Fischl.php" class="containerArme c4" draggable="false"><img src="../img/icon/Fischl.png" alt="image" draggable="false"><p>Fischl</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>

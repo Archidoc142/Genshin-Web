@@ -409,6 +409,10 @@ iframe {
     border: 1px solid #3d4055;
 }
 
+.titreP{
+    padding: 5px;
+}
+
 .box{
     font-size: small;
     color: #dbb56b;
@@ -536,4 +540,9 @@ h4.hydro{
 
 img.video{
     border: 2px solid rgb(31, 31, 118);
+}
+
+.lien{
+    color: #dbb56b;
+    text-decoration: none;
 }

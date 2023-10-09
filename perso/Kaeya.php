@@ -14,7 +14,7 @@
 
     <div class="flex" id="overview">
         <div class="descriptionP">
-            <p>Kaeya est le Capitaine de Cavalerie de l'Ordre de Favonius. Il est tenu en haute estime par les habitants de Mondstadt, même avec toutes ses excentricités et ses secrets.<br><br>Kaeya est le fidèle bras droit de Jean au sein de l'Ordre de Favonius. Il n'y a rien qu'il ne puisse pas faire !<br>Ce charmant chevalier est très apprécié de la population locale, mais il n'en demeure pas moins mystérieux.</p>
+            <p>Kaeya est le Capitaine de Cavalerie de l'Ordre de Favonius. Il est tenu en haute estime par les habitants de Mondstadt, même avec toutes ses excentricités et ses secrets.<br><br>Kaeya est le fidèle bras droit de <a href="Jean.php" class="lien">Jean</a> au sein de l'Ordre de Favonius. Il n'y a rien qu'il ne puisse pas faire !<br><br>Ce charmant chevalier est très apprécié de la population locale, mais il n'en demeure pas moins mystérieux.</p>
         </div>
         <div class="containerP">
             <div class="nameP genshin"><p>kaeya</p></div>
@@ -55,9 +55,11 @@
             <h3 class="cryo">★DPS (Cryo)</h3><p class="cryo">Élévation d'aptitude: Attaque Normal > Compétence Élémentaire</p>
             <p class="noir">Armes</p>
             <div class="flex infoJour">
-                <a href="Reflet de tranche-brume.php" class="containerArme c5" draggable="false"><img src="../img/arme/Reflet de tranche-brume.png" alt="image" draggable="false"><p>Reflet de tranche-brume</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Coupeur de jade primordial.php" class="containerArme c5" draggable="false"><img src="../img/arme/Coupeur de jade primordial.png" alt="image" draggable="false"><p>Coupeur de jade primordial</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Épée du faucon.php" class="containerArme c5" draggable="false"><img src="../img/arme/Épée du faucon.png" alt="image" draggable="false"><p>Épée du faucon</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../arme/Reflet de tranche-brume.php" class="containerArme c5" draggable="false"><img src="../img/arme/Reflet de tranche-brume.png" alt="image" draggable="false"><p>Reflet de tranche-brume</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../arme/Coupeur de jade primordial.php" class="containerArme c5" draggable="false"><img src="../img/arme/Coupeur de jade primordial.png" alt="image" draggable="false"><p>Coupeur de jade primordial</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../arme/Épée du faucon.php" class="containerArme c5" draggable="false"><img src="../img/arme/Épée du faucon.png" alt="image" draggable="false"><p>Épée du faucon</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a class="containerArme c4" draggable="false"><img src="../img/arme/Flûte.png" alt="image" draggable="false"><p>Flûte</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>
+                <a class="containerArme c3" draggable="false"><img src="../img/arme/Lame froide.png" alt="image" draggable="false"><p>Lame froide</p><img src="../img/icon/three_stars.png" alt="image" draggable="false"></a>
             </div>
         </div>
 
@@ -65,11 +67,11 @@
             <p class="noir">Artéfacts</p>
             <p class="cryo">Stats Secondaires:  DGT CRIT % > ATQ % > Recharge d'énergie % > Taux CRIT %</p>
             <div class="flex infoJour">
-                <a href="Briseur de glace.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Briseur de glace.png" alt="image" draggable="false"><p>Mémoires du froid</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Briseur de glace.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Résolution du Briseur de glace.png" alt="image" draggable="false"><p>Résolution du Briseur de glace</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Briseur de glace.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Fin du pays des glaces.png" alt="image" draggable="false"><p>Fin du pays des glaces</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Briseur de glace.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Fierté du Tisseur de givre.png" alt="image" draggable="false"><p>Fierté du Tisseur de givre</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Briseur de glace.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Écho de l'hiver.png" alt="image" draggable="false"><p>Écho de l'hiver</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Briseur de glace.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Briseur de glace.png" alt="image" draggable="false"><p>Mémoires du froid</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Briseur de glace.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Résolution du Briseur de glace.png" alt="image" draggable="false"><p>Résolution du Briseur de glace</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Briseur de glace.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Fin du pays des glaces.png" alt="image" draggable="false"><p>Fin du pays des glaces</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Briseur de glace.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Fierté du Tisseur de givre.png" alt="image" draggable="false"><p>Fierté du Tisseur de givre</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Briseur de glace.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Écho de l'hiver.png" alt="image" draggable="false"><p>Écho de l'hiver</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
             </div>
         </div>
 
@@ -77,9 +79,11 @@
             <h3 class="cryo">★Soutien déchaînement</h3><p class="cryo">Élévation d'aptitude: Déchaînement Élémentaire > Compétence Élémentaire</p>
             <p class="noir">Armes</p>
             <div class="flex infoJour">
-                <a href="Coupeur de jade primordial.php" class="containerArme c5" draggable="false"><img src="../img/arme/Coupeur de jade primordial.png" alt="image" draggable="false"><p>Coupeur de jade primordial</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Reflet de tranche-brume.php" class="containerArme c5" draggable="false"><img src="../img/arme/Reflet de tranche-brume.png" alt="image" draggable="false"><p>Reflet de tranche-brume</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Épée du faucon.php" class="containerArme c5" draggable="false"><img src="../img/arme/Épée du faucon.png" alt="image" draggable="false"><p>Épée du faucon</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../arme/Coupeur de jade primordial.php" class="containerArme c5" draggable="false"><img src="../img/arme/Coupeur de jade primordial.png" alt="image" draggable="false"><p>Coupeur de jade primordial</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../arme/Reflet de tranche-brume.php" class="containerArme c5" draggable="false"><img src="../img/arme/Reflet de tranche-brume.png" alt="image" draggable="false"><p>Reflet de tranche-brume</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../arme/Épée du faucon.php" class="containerArme c5" draggable="false"><img src="../img/arme/Épée du faucon.png" alt="image" draggable="false"><p>Épée du faucon</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a class="containerArme c4" draggable="false"><img src="../img/arme/Rugissement du Lion.png" alt="image" draggable="false"><p>Rugissement du Lion</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>
+                <a class="containerArme c4" draggable="false"><img src="../img/arme/Lame kageuchi d'Amenoma.png" alt="image" draggable="false"><p>Lame kageuchi d'Amenoma</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>
             </div>
         </div>
 
@@ -87,11 +91,11 @@
             <p class="noir">Artéfacts</p>
             <p class="cryo">Stats Secondaires:  Recharge d'énergie % > DGT CRIT % > Taux CRIT % > ATQ %</p>
             <div class="flex infoJour">
-                <a href="Emblème du destin brisé.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Emblème du destin brisé.png" alt="image" draggable="false"><p>Tsuba magnifique</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Emblème du destin brisé.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Plume brisée.png" alt="image" draggable="false"><p>Plume brisée</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Emblème du destin brisé.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Inro de la tempête.png" alt="image" draggable="false"><p>Inro de la tempête</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Emblème du destin brisé.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Gourde pourpre.png" alt="image" draggable="false"><p>Gourde pourpre</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Emblème du destin brisé.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Kabuto orné.png" alt="image" draggable="false"><p>Kabuto orné</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Emblème du destin brisé.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Emblème du destin brisé.png" alt="image" draggable="false"><p>Tsuba magnifique</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Emblème du destin brisé.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Plume brisée.png" alt="image" draggable="false"><p>Plume brisée</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Emblème du destin brisé.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Inro de la tempête.png" alt="image" draggable="false"><p>Inro de la tempête</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Emblème du destin brisé.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Gourde pourpre.png" alt="image" draggable="false"><p>Gourde pourpre</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Emblème du destin brisé.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Kabuto orné.png" alt="image" draggable="false"><p>Kabuto orné</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
             </div>
         </div>
     </div>
@@ -103,14 +107,14 @@
         </div>
 
         <div>
-            <p class="noir">Fonte</p>
+            <p class="noir">Fonte - S</p>
             <div class="flex infoJour">
                 <a href="Hu Tao.php" class="containerArme c5" draggable="false"><img src="../img/icon/Hu Tao.png" alt="image" draggable="false"><p>Hu Tao</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
                 <a href="Kaeya.php" class="containerArme c4" draggable="false"><img src="../img/icon/Kaeya.png" alt="image" draggable="false"><p>Kaeya</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>
                 <a href="Xingqiu.php" class="containerArme c4" draggable="false"><img src="../img/icon/Xingqiu.png" alt="image" draggable="false"><p>Xingqiu</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>
                 <a href="Zhongli.php" class="containerArme c5" draggable="false"><img src="../img/icon/Zhongli.png" alt="image" draggable="false"><p>Zhongli</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
             </div>
-            <p class="noir">Gêle</p>
+            <p class="noir">Gêle - S</p>
             <div class="flex infoJour">
                 <a href="Ayaka.php" class="containerArme c5" draggable="false"><img src="../img/icon/Ayaka.png" alt="image" draggable="false"><p>Ayaka</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
                 <a href="Kaeya.php" class="containerArme c4" draggable="false"><img src="../img/icon/Kaeya.png" alt="image" draggable="false"><p>Kaeya</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>

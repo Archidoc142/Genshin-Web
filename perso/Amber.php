@@ -55,19 +55,21 @@
             <h3 class="pyro">★Soutien</h3><p class="pyro">Élévation d'aptitude: Déchaînement Élémentaire >  Compétence Élémentaire</p>
             <p class="noir">Armes</p>
             <div class="flex infoJour">
-                <a href="Ultime soupir.php" class="containerArme c5" draggable="false"><img src="../img/arme/Ultime soupir.png" alt="image" draggable="false"><p>Ultime soupir</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../arme/Ultime soupir.php" class="containerArme c5" draggable="false"><img src="../img/arme/Ultime soupir.png" alt="image" draggable="false"><p>Ultime soupir</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a class="containerArme c4" draggable="false"><img src="../img/arme/Arc de Favonius.png" alt="image" draggable="false"><p>Arc de Favonius</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>
+                <a class="containerArme c4" draggable="false"><img src="../img/arme/Arc rituel.png" alt="image" draggable="false"><p>Arc rituel</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>
             </div>
         </div>
 
         <div>
             <p class="noir">Artéfacts</p>
-            <p class="pyro">Stats Secondaires:  Recharge d'énergie > Taux CRIT % > DGT CRIT % > ATQ %</p>
+            <p class="pyro">Stats Secondaires:  Recharge d'énergie % > Taux CRIT % > DGT CRIT % > ATQ %</p>
             <div class="flex infoJour">
-                <a href="Ancien rituel royal.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Ancien rituel royal.png" alt="image" draggable="false"><p>Moment du jugement</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Ancien rituel royal.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Plume du Noble.png" alt="image" draggable="false"><p>Plume du Noble</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Ancien rituel royal.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Montre de poche du Noble.png" alt="image" draggable="false"><p>Montre de poche du Noble</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Ancien rituel royal.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Urne d'argent du Noble.png" alt="image" draggable="false"><p>Urne d'argent du Noble</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Ancien rituel royal.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Masque du Noble.png" alt="image" draggable="false"><p>Masque du Noble</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Ancien rituel royal.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Ancien rituel royal.png" alt="image" draggable="false"><p>Moment du jugement</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Ancien rituel royal.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Plume du Noble.png" alt="image" draggable="false"><p>Plume du Noble</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Ancien rituel royal.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Montre de poche du Noble.png" alt="image" draggable="false"><p>Montre de poche du Noble</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Ancien rituel royal.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Urne d'argent du Noble.png" alt="image" draggable="false"><p>Urne d'argent du Noble</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Ancien rituel royal.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Masque du Noble.png" alt="image" draggable="false"><p>Masque du Noble</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
             </div>
         </div>
 
@@ -75,8 +77,9 @@
             <h3 class="pyro">★DPS</h3><p class="pyro">Élévation d'aptitude: Attaque Normal > Déchaînement Élémentaire > Compétence Élémentaire</p>
             <p class="noir">Armes</p>
             <div class="flex infoJour">
-                <a href="Arc d'Amos.php" class="containerArme c5" draggable="false"><img src="../img/arme/Arc d'Amos.png" alt="image" draggable="false"><p>Arc d'Amos</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Pulsation du tonnerre.php" class="containerArme c5" draggable="false"><img src="../img/arme/Pulsation du tonnerre.png" alt="image" draggable="false"><p>Pulsation du tonnerre</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../arme/Arc d'Amos.php" class="containerArme c5" draggable="false"><img src="../img/arme/Arc d'Amos.png" alt="image" draggable="false"><p>Arc d'Amos</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../arme/Pulsation du tonnerre.php" class="containerArme c5" draggable="false"><img src="../img/arme/Pulsation du tonnerre.png" alt="image" draggable="false"><p>Pulsation du tonnerre</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a class="containerArme c4" draggable="false"><img src="../img/arme/Lune paisible (prototype).png" alt="image" draggable="false"><p>Lune paisible (prototype)</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>
             </div>
         </div>
 
@@ -84,18 +87,18 @@
             <p class="noir">Artéfacts</p>
             <p class="pyro">Stats Secondaires:  DGT CRIT % > Taux CRIT % > ATQ % > Maîtise élémentaire</p>
             <div class="flex infoJour">
-                <a href="Bande Vagabonde.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Bande Vagabonde.png" alt="image" draggable="false"><p>Aube de l'orchestre</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Bande Vagabonde.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Plume de flèche du lyriste.png" alt="image" draggable="false"><p>Plume de flèche du lyriste</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Bande Vagabonde.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Tombée du rideau.png" alt="image" draggable="false"><p>Tombée du rideau</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Bande Vagabonde.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Gourde à cordes du ménestrel.png" alt="image" draggable="false"><p>Gourde à cordes du ménestrel</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Bande Vagabonde.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Haut-de-forme du chef d'orchestre.png" alt="image" draggable="false"><p>Haut-de-forme du chef d'orchestre</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Bande Vagabonde.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Bande Vagabonde.png" alt="image" draggable="false"><p>Aube de l'orchestre</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Bande Vagabonde.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Plume de flèche du lyriste.png" alt="image" draggable="false"><p>Plume de flèche du lyriste</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Bande Vagabonde.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Tombée du rideau.png" alt="image" draggable="false"><p>Tombée du rideau</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Bande Vagabonde.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Gourde à cordes du ménestrel.png" alt="image" draggable="false"><p>Gourde à cordes du ménestrel</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Bande Vagabonde.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Haut-de-forme du chef d'orchestre.png" alt="image" draggable="false"><p>Haut-de-forme du chef d'orchestre</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
             </div>
             <div class="flex infoJour">
-                <a href="Réminiscence nostalgique.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Réminiscence nostalgique.png" alt="image" draggable="false"><p>Fleur d'enchevêtrement</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Réminiscence nostalgique.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Flèche de nostalgie.png" alt="image" draggable="false"><p>Flèche de nostalgie</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Réminiscence nostalgique.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Horloge de l'aube.png" alt="image" draggable="false"><p>Horloge de l'aube</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Réminiscence nostalgique.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Cœur plein d'espoir.png" alt="image" draggable="false"><p>Cœur plein d'espoir</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
-                <a href="Réminiscence nostalgique.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Visage capricieux.png" alt="image" draggable="false"><p>Visage capricieux</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Réminiscence nostalgique.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Réminiscence nostalgique.png" alt="image" draggable="false"><p>Fleur d'enchevêtrement</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Réminiscence nostalgique.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Flèche de nostalgie.png" alt="image" draggable="false"><p>Flèche de nostalgie</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Réminiscence nostalgique.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Horloge de l'aube.png" alt="image" draggable="false"><p>Horloge de l'aube</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Réminiscence nostalgique.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Cœur plein d'espoir.png" alt="image" draggable="false"><p>Cœur plein d'espoir</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
+                <a href="../artefact/Réminiscence nostalgique.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Visage capricieux.png" alt="image" draggable="false"><p>Visage capricieux</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
             </div>
         </div>
     </div>
@@ -107,14 +110,14 @@
         </div>
 
         <div>
-            <p class="noir">Vaporize</p>
+            <p class="noir">Vaporize - C</p>
             <div class="flex infoJour">
                 <a href="Amber.php" class="containerArme c4" draggable="false"><img src="../img/icon/Amber.png" alt="image" draggable="false"><p>Amber</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>
                 <a href="Xingqiu.php" class="containerArme c4" draggable="false"><img src="../img/icon/Xingqiu.png" alt="image" draggable="false"><p>Xingqiu</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>
                 <a href="Kazuha.php" class="containerArme c5" draggable="false"><img src="../img/icon/Kazuha.png" alt="image" draggable="false"><p>Kazuha</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
                 <a href="Bennett.php" class="containerArme c4" draggable="false"><img src="../img/icon/Bennett.png" alt="image" draggable="false"><p>Bennett</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>
             </div>
-            <p class="noir">Fonte</p>
+            <p class="noir">Fonte - A</p>
             <div class="flex infoJour">
                 <a href="Ayaka.php" class="containerArme c5" draggable="false"><img src="../img/icon/Ayaka.png" alt="image" draggable="false"><p>Ayaka</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
                 <a href="Amber.php" class="containerArme c4" draggable="false"><img src="../img/icon/Amber.png" alt="image" draggable="false"><p>Amber</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>
