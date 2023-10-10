@@ -76,7 +76,7 @@
         </div>
 
         <div>
-            <h3 class="cryo">★Soutien déchaînement</h3><p class="cryo">Élévation d'aptitude: Déchaînement Élémentaire > Compétence Élémentaire</p>
+            <h3 class="cryo">★Soutien</h3><p class="cryo">Élévation d'aptitude: Déchaînement Élémentaire > Compétence Élémentaire</p>
             <p class="noir">Armes</p>
             <div class="flex infoJour">
                 <a href="../arme/Coupeur de jade primordial.php" class="containerArme c5" draggable="false"><img src="../img/arme/Coupeur de jade primordial.png" alt="image" draggable="false"><p>Coupeur de jade primordial</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>

@@ -83,7 +83,7 @@
         </div>
 
         <div>
-            <p class="noir">Vaporize - S</p>
+            <p class="noir">Évaporation - S</p>
             <div class="flex infoJour">
                 <a href="Tartaglia.php" class="containerArme c5" draggable="false"><img src="../img/icon/Tartaglia.png" alt="image" draggable="false"><p>Tartaglia</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
                 <a href="Xiangling.php" class="containerArme c4" draggable="false"><img src="../img/icon/Xiangling.png" alt="image" draggable="false"><p>Xiangling</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>

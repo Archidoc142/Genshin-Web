@@ -96,7 +96,7 @@
                 <a href="Kazuha.php" class="containerArme c5" draggable="false"><img src="../img/icon/Kazuha.png" alt="image" draggable="false"><p>Kazuha</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
                 <a href="Kuki Shinobu.php" class="containerArme c4" draggable="false"><img src="../img/icon/Kuki Shinobu.png" alt="image" draggable="false"><p>Kuki Shinobu</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>
             </div>
-            <p class="noir">Vaporize - S</p>
+            <p class="noir">Évaporation - S</p>
             <div class="flex infoJour">
                 <a href="Neuvillette.php" class="containerArme c5" draggable="false"><img src="../img/icon/Neuvillette.png" alt="image" draggable="false"><p>Neuvillette</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
                 <a href="Xiangling.php" class="containerArme c4" draggable="false"><img src="../img/icon/Xiangling.png" alt="image" draggable="false"><p>Xiangling</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>

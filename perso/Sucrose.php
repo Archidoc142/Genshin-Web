@@ -64,7 +64,7 @@
 
         <div>
             <p class="noir">Artéfacts</p>
-            <p class="anemo">Stats Secondaires:  Maîtrise élémentaire > ATQ % > DGT CRIT % > Taux CRIT %</p>
+            <p class="anemo">Stats Secondaires: Maîtrise élémentaire > ATQ % > DGT CRIT % > Taux CRIT %</p>
             <div class="flex infoJour">
                 <a href="../artefact/Ombre de la Verte Chasseuse.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Ombre de la Verte Chasseuse.png" alt="image" draggable="false"><p>Souvenir de fleur des champs</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
                 <a href="../artefact/Ombre de la Verte Chasseuse.php" class="containerArme c5" draggable="false"><img src="../img/artefact/Plume de flèche de la Verte Chasseuse.png" alt="image" draggable="false"><p>Plume de flèche de la Verte Chasseuse</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
@@ -82,14 +82,14 @@
         </div>
 
         <div>
-            <p class="noir">Vaporize - SS</p>
+            <p class="noir">Évaporation - SS</p>
             <div class="flex infoJour">
                 <a href="Tartaglia.php" class="containerArme c5" draggable="false"><img src="../img/icon/Tartaglia.png" alt="image" draggable="false"><p>Tartaglia</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
                 <a href="Xiangling.php" class="containerArme c4" draggable="false"><img src="../img/icon/Xiangling.png" alt="image" draggable="false"><p>Xiangling</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>
                 <a href="Sucrose.php" class="containerArme c4" draggable="false"><img src="../img/icon/Sucrose.png" alt="image" draggable="false"><p>Sucrose</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>
                 <a href="Bennett.php" class="containerArme c4" draggable="false"><img src="../img/icon/Bennett.png" alt="image" draggable="false"><p>Bennett</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>
             </div>
-            <p class="noir">Vaporize - SS</p>
+            <p class="noir">Évaporation - SS</p>
             <div class="flex infoJour">
                 <a href="Hu Tao.php" class="containerArme c5" draggable="false"><img src="../img/icon/Hu Tao.png" alt="image" draggable="false"><p>Hu Tao</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
                 <a href="Xingqiu.php" class="containerArme c4" draggable="false"><img src="../img/icon/Xingqiu.png" alt="image" draggable="false"><p>Xingqiu</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>
@@ -137,93 +137,93 @@
         <div class="power">
             <div class="flex">
                 <img src="../img/pouvoir/a/Sucrose1.png" alt="Image">
-                <p>Style Guhua</p>
+                <p>Esprit du vent</p>
             </div>
-            <p><strong>Attaque normale :</strong>Enchaîne jusqu'à 5 coups d'épée.<br><br><strong>Attaque chargée :</strong>Avance en enchaînant 2 coups d'épée.<br><br>Combo : 92.14% / 94.18% / 56.44%*2 / 110.67% / 70.89%*2<br>Chargée : 93.5% / 111.01%<br>DGT durant la chute : 126.38%<br>DGT Chute basse/élevée : 252.7% / 315.64%</p>
+            <p><strong>Attaque normale</strong><br>Enchaîne jusqu'à 4 attaques de vent qui infligent des DGT Anémo.<br><br><strong>Attaque chargée</strong><br>Consomme de l'endurance pour infliger des DGT Anémo de zone après un court délai.<br><br><strong>Attaque plongeante</strong><br>Plonge depuis les airs en concentrant ses pouvoirs Anémo, infligeant des DGT aux ennemis en chemin et des DGT Anémo de zone à l'impact.<br><br>Combo : 60.24% / 55.11% / 69.21% / 86.25%<br>Chargée : 216.29%<br>DGT durant la chute : 112.34%<br>DGT Chute basse/élevée : 224.62% / 280.57%</p>
             <img src="https://www.genshin-impact.fr/wp-content/uploads/2020/08/Sucrose-AA.gif" alt="video" class="video" draggable="false">
         </div>
         <div class="power">
             <div class="flex">
                 <img src="../img/pouvoir/a/Sucrose2.png" alt="Image">
-                <p>Épée Guhua : Pluie Battante</p>
+                <p>Esprit du vent : Sujet 6308</p>
             </div>
-            <p>Effectue deux coups d'épées infligeant des dégâts anemo. Crée des Épées de pluie qui orbitent autour du personnage. Elles réduisent les dégâts reçus et appliquent l'état anemo au personnage.<br><br>DGT compétence : 302.4% + 344.16%<br>Réduction DGT : 28%<br>TdR appui long : 16s<br>Durée : 15s<br>TdR : 21s</p>
+            <p>Sucrose invoque un Esprit du vent de taille réduite, qui attire les ennemis et les objets proches à lui, projetant les ennemis dans les airs et leur infligeant des DGT Anémo.<br><br>DGT compétence : 380.16%<br>TdR : 15 s</p>
             <img src="https://www.genshin-impact.fr/wp-content/uploads/2020/08/Sucrose-E.gif" alt="video" class="video" draggable="false">
         </div>
         <div class="power">
             <div class="flex">
                 <img src="../img/pouvoir/a/Sucrose3.png" alt="Image">
-                <p>Épée Guhua : pluie et arc-en-ciel</p>
+                <p>Esprit du vent : Isomorphe 75 Type II</p>
             </div>
-            <p>Les attaques normales envoient des projectiles infligeant des DGT anemo.<br><br>DGT Pluie d'épée : 97.69%<br>Durée : 15s<br>TdR : 20s<br>Coût énergie : 80</p>
-            <img src="https://www.genshin-impact.fr/wp-content/uploads/2020/08/Xinqiu-Q.gif" alt="video" class="video" draggable="false">
+            <p>Sucrose jette une concoction instable qui libère un Esprit du vent de grande taille.<br>L'Esprit attire les ennemis et les objets proches à lui, projetant les ennemis dans les airs et leur infligeant des DGT Anémo.<br><br><strong>Absorption élémentaire</strong><br>L'Esprit du vent absorbe les éléments Hydro, Pyro, Cryo et Électro avec lesquels il entre en contact ; ceux-ci lui confèrent leurs attributs, et infligent un bonus de DGT de l'élément correspondant.<br>Un seul élément peut être absorbé à la fois.<br><br>DGT Continus : 266.4%<br>Bonus DGT élémentaires : 79.2%<br>Durée : 6 s<br>TdR : 20 s<br>Coût énergie : 80</p>
+            <img src="https://www.genshin-impact.fr/wp-content/uploads/2020/08/Sucrose-Q.gif" alt="video" class="video" draggable="false">
         </div>
 
         <h2 class="title">Passif</h2>
         <div class="power">
             <div class="flex">
                 <img src="../img/pouvoir/p/Sucrose1.png" alt="Image">
-                <p>Clé d'invocation d'eau</p>
+                <p>Permutation de catalyste</p>
             </div>
-            <p>Lorsqu'une Épée de pluie est brisée ou qu'elle expire, le personnage actuel récupère une quantité de PV équivalant à 6% des PV max de Sucrose.</p>
+            <p>Tous les personnages de l'équipe du type élémentaire concerné (hormis Sucrose) obtiennent un bonus de 50 pts de maîtrise élémentaire pendant 8 s lorsque Sucrose déclenche une réaction de Dispersion.</p>
         </div>
         <div class="power">
             <div class="flex">
                 <img src="../img/pouvoir/p/Sucrose2.png" alt="Image">
-                <p>Lames et gouttes de pluie</p>
+                <p>Mollis Favonius</p>
             </div>
-            <p>Sucrose gagne un bonus de 20% de DGT anemo.</p>
+            <p>Lorsque Esprit du vent : Sujet 6308 ou Esprit du vent : Isomorphe 75 Type II touche un ennemi, tous les personnages de l'équipe (hormis Sucrose) bénéficient pendant 8 s d'un bonus de maîtrise élémentaire équivalant à 20 % de la maîtrise élémentaire de Sucrose.</p>
         </div>
         <div class="power">
             <div class="flex">
                 <img src="../img/pouvoir/p/Sucrose3.png" alt="Image">
-                <p>Illumination</p>
+                <p>Fragile découverte</p>
             </div>
-            <p>Vous avez 20% de chance de récupérer des matériaux de synthèse lors de la synthèse de matériaux d'aptitude.</p>
+            <p>10 % de chances d'obtenir le double de produits lors de la synthèse de matériaux d'amélioration de personnage ou d'arme.</p>
         </div>
 
         <h2 class="title">Constellation</h2>
         <div class="power">
             <div class="flex">
                 <img src="../img/pouvoir/c/Sucrose1.png" alt="Image">
-                <p>Le parfum est demeuré</p>
+                <p>Champ du néant</p>
             </div>
-            <p>Augmente le nombre maximum d'Épée de pluie de 1.</p>
+            <p>Confère une utilisation supplémentaire de Esprit du vent : Sujet 6308.</p>
         </div>
         <div class="power">
             <div class="flex">
                 <img src="../img/pouvoir/c/Sucrose2.png" alt="Image">
-                <p>Arc-en-ciel sur le ciel d'azur</p>
+                <p>Bett : Forme éthérée</p>
             </div>
-            <p>Prolonge la durée d'Épée Guhua - Pluie et arc en ciel de 3 s. De plus, les épées de pluie réduisent la RÉS anemo des ennemis qu'elles touchent de 15 % pendant 4 s.</p>
+            <p>Prolonge la durée d'Esprit du vent : Isomorphe 75 Type II de 2 s.</p>
         </div>
         <div class="power">
             <div class="flex">
                 <img src="../img/pouvoir/c/Sucrose3.png" alt="Image">
-                <p>Tisseuse de vers</p>
+                <p>Zéro défaut</p>
             </div>
-            <p>Niveau de compétence Épée Guhua - Pluie battante +3.<br>Niveau Max : 15</p>
+            <p>Niveau d'aptitude Esprit du vent : Sujet 6308 +3.<br>Niveau max : 15</p>
         </div>
         <div class="power">
             <div class="flex">
                 <img src="../img/pouvoir/c/Sucrose4.png" alt="Image">
-                <p>Conquérant du dragon</p>
+                <p>Alchémania</p>
             </div>
-            <p>Pendant la durée d'Épée Guhua - Pluie et arc-en-ciel, les DGT infligés par l'Épée Guhua - Pluie battante augmentent de 50 %.</p>
+            <p>Sucrose réduit le TdR d'Esprit du vent : Sujet 6308 de 1 à 7 s tous les 7 coups d'attaque normale ou chargée qu'elle inflige à un ennemi.<br>Un coup peut être compté toutes les 0,1 s.</p>
         </div>
         <div class="power">
             <div class="flex">
                 <img src="../img/pouvoir/c/Sucrose5.png" alt="Image">
-                <p>Embrassement de pluie</p>
+                <p>Flasque standard</p>
             </div>
-            <p>Niveau de compétence Épée Guhua - Pluie et arc-en-ciel +3.<br>Niveau Max : 15</p>
+            <p>Niveau d'aptitude Esprit du vent : Isomorphe 75 Type II +3.<br>Niveau max : 15</p>
         </div>
         <div class="power">
             <div class="flex">
                 <img src="../img/pouvoir/c/Sucrose6.png" alt="Image">
-                <p>Embrassement de pluie</p>
+                <p>Théorie de l'entropie</p>
             </div>
-            <p>Les DGT du déluge d'épées d'Épée Guhua - Pluie et arc-en-ciel augmentent considérablement toutes les 2 pluies d'épées. Sucrose récupère de plus 3 pts d'énergie élémentaire.</p>
+            <p>En cas d'absorption élémentaire, Esprit du vent : Isomorphe 75 Type II confère à tous les personnages de l'équipe un bonus de DGT élémentaires de 20 % pour l'élément absorbé tant que la compétence est active.</p>
         </div>
     </div>
 

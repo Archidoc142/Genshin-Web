@@ -104,7 +104,7 @@
         </div>
 
         <div>
-            <p class="noir">Vaporize - B</p>
+            <p class="noir">Évaporation - B</p>
             <div class="flex infoJour">
                 <a href="Klee.php" class="containerArme c5" draggable="false"><img src="../img/icon/Klee.png" alt="image" draggable="false"><p>Klee</p><img src="../img/icon/five_stars.png" alt="image" draggable="false"></a>
                 <a href="Xiangling.php" class="containerArme c4" draggable="false"><img src="../img/icon/Xiangling.png" alt="image" draggable="false"><p>Xiangling</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>

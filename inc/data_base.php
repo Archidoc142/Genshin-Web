@@ -146,7 +146,7 @@
         26 => new Objet('Ganyu'),
         27 => new Objet('Xiao'),
         28 => new Objet('Hu Tao'),
-        29 => new Objet('Rosaria'),
+        29 => new Objet('Rosalia'),
         30 => new Objet('Yanfei'),
         31 => new Objet('Eula'),
         32 => new Objet('Kazuha'),

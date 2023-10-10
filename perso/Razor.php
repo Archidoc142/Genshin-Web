@@ -89,7 +89,7 @@
         </div>
 
         <div>
-            <p class="noir">Superconduct - B</p>
+            <p class="noir">Supra-conduction - B</p>
             <div class="flex infoJour">
                 <a href="Razor.php" class="containerArme c4" draggable="false"><img src="../img/icon/Razor.png" alt="image" draggable="false"><p>Razor</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>
                 <a href="Sucrose.php" class="containerArme c4" draggable="false"><img src="../img/icon/Sucrose.png" alt="image" draggable="false"><p>Sucrose</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>

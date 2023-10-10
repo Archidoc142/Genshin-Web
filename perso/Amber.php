@@ -110,7 +110,7 @@
         </div>
 
         <div>
-            <p class="noir">Vaporize - C</p>
+            <p class="noir">Évaporation - C</p>
             <div class="flex infoJour">
                 <a href="Amber.php" class="containerArme c4" draggable="false"><img src="../img/icon/Amber.png" alt="image" draggable="false"><p>Amber</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>
                 <a href="Xingqiu.php" class="containerArme c4" draggable="false"><img src="../img/icon/Xingqiu.png" alt="image" draggable="false"><p>Xingqiu</p><img src="../img/icon/four_stars.png" alt="image" draggable="false"></a>
