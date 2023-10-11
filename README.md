@@ -1,2 +1,2 @@
 # Genshin-Web
-Base de donnée Genshin Impact
+Base de données Genshin Impact
